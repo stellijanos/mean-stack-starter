@@ -1,5 +1,5 @@
 const testService = require('../services/testService');
-const catchAsync = require('../utils/catchAsync');
+const catchAsync = require('../utils/functions/catchAsync');
 const SuccessResponse = require('../utils/classes/SuccessResponse');
 const ErrorResponse = require('../utils/classes/ErrorResponse');
 

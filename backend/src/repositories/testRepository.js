@@ -1,4 +1,4 @@
-const Test = require('../models/test');
+const Test = require('../models/Test');
 
 const getAll = async () => {
     return await Test.find();

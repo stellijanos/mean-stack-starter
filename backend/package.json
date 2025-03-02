@@ -19,6 +19,7 @@
     "express": "^4.21.2",
     "mongoose": "^8.10.1",
     "morgan": "^1.10.0",
+    "persona-website": "file:",
     "winston": "^3.17.0",
     "winston-daily-rotate-file": "^5.0.0"
   },
